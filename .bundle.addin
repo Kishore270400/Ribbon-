@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>PCTO3D</Name>
+		<Assembly>.\PCTO3D.dll</Assembly>
+		<AddInId>993785A4-B5AD-4C02-86C7-903E3D2B7672</AddInId>
+		<FullClassName>PCTO3D.PointCloud</FullClassName>
+		<VendorId>Pointcloud</VendorId>
+		<VendorDescription>PointCloud Tools for Revit</VendorDescription>
+		<VendorUrl>http://www.pointcloud.com</VendorUrl>
+	</AddIn>
+</RevitAddIns>
+
+
+
